@@ -7,3 +7,5 @@ So maybe you need setup some fundamentals to running this app.
 
 First you need to download the JavaFX SDK and then you need to setup VM options in your ide.
 You can find out how do these by searching in google.
+
+#### App internationalized with both English and Persian languages
